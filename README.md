@@ -8,6 +8,9 @@ I use this GitHub to support my independent research and financial-analysis proj
 
 ## Selected work
 
+- [**Equity Execution Simulator — Python**](https://github.com/ayush-cha/ayush-cha/tree/main/projects/equity-execution-simulator)  
+  Compared TWAP, historical-volume VWAP and POV schedules on one-minute share-volume data across five equities, with participation and trading-cost sensitivities.
+
 - [**ITC Limited — Equity Research & Valuation**](https://ayushchakraborty.com/research/itc.html)  
   Five-year segment model with DCF, SOTP, relative valuation, sensitivity analysis, and exploratory econometrics.
 
